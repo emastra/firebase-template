@@ -9,6 +9,16 @@
 
 .loginButton {
     padding: 8px 16px;
+    border: 1px solid grey;
+    min-width: 200px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 8px;
+    color: rgb(53, 53, 53);
+
+    &:hover {
+        background-color: beige;
+    }
 }
 
 .contentWrap {
