@@ -1,0 +1,33 @@
+.container {
+    margin: 128px 64px;
+}
+
+.loginButtonWrap {
+    display: flex;
+    justify-content: center;
+}
+
+.loginButton {
+    padding: 8px 16px;
+}
+
+.contentWrap {
+    display: flex;
+    justify-content: center;
+    margin-top: 32px;
+    align-items: center;
+}
+
+.box {
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    border: 1px solid grey;
+    border-radius: 8%;
+    margin: 32px;
+    padding: 16px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
